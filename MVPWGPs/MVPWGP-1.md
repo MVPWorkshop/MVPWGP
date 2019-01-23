@@ -31,7 +31,7 @@ Proposals follow this workflow:
 
 At a high level, the MVPWGP-1 workflow looks like this:
 
-![](../images/AGP-1/AGP-1_1.png)
+![](../images/MVPWGP-1/MVPWGP-1_1.png)
 
 ### Stage I: Select MVPWGP Track
 Before you spend time working on a proposal, make sure the proposal complies with MVPWGP-1 and has a chance of passing review by your peers. Review the MVPWGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted and approved by MVPW voters.
