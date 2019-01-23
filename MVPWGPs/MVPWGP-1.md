@@ -1,7 +1,7 @@
 ---
 MVPWGP: 1
 Title: The MVP Workshop Governance Proposal Process
-Author: Malisa Pusonja (@john-light)
+Author: Malisa Pusonja (@masa)
 Status: For Review
 Track: Meta
 Created: 2019-01-23
