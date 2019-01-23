@@ -12,33 +12,31 @@ Created: 2019-01-23
 **Version 1.0.0**
 
 ## What is an MVPWGP?
-MVPWGP stands for MVP Workshop Governance Proposal, based on AGP (Aragon Governance Proposal). An MVPWGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the MVP Workshop. All MVPWGPs must be consistent with the goals and values put forth in [MVPWGP-0](MVPGP-0.md), i.e.  (the MVP Workshop Manifesto) and compliant with the requirements outlined in this document, MVPWGP-1. The MVPWGP author is responsible for building consensus within the community for their AGP and documenting dissenting opinions.
+MVPWGP stands for MVP Workshop Governance Proposal, based on AGP (Aragon Governance Proposal). An MVPWGP is a document that details a change to the management, allocation, or use of shared resources owned or directly influenced by the MVP Workshop. All MVPWGPs must be consistent with the goals and values put forth in [MVPWGP-0](MVPGP-0.md), i.e.  (the MVP Workshop Manifesto) and compliant with the requirements outlined in this document, MVPWGP-1. The MVPWGP author is responsible for building consensus within the community for their MVPWGP and documenting dissenting opinions.
 
-## AGP process rationale
-The purpose of the Aragon Governance Proposal Process ("the AGP process") is to provide a structured process for making changes to the shared resources of the Aragon Network. For these shared resources, governance processes are needed to grant or deny access and approve or reject proposed changes. By creating a fair, lightweight, and transparent AGP process, the AGP-1 authors hope to give ANT holders a meaningful say in the governance of the Aragon Association and the Aragon Network and increase the chances of success for both.
+## MVPWGP process rationale
+The purpose of the MVPWGP Process ("the AGP process") is to provide a structured process for making changes to the shared resources of the MVPW. For these shared resources, governance processes are needed to grant or deny access and approve or reject proposed changes. By creating a fair, lightweight, and transparent MVPWGP process, the MVPWGP-1 authors hope to give MVP Workshop people a meaningful say in the governance of the MVP Workshop Association and the MVPW and increase the chances of success for both.
 
 ## Proposal workflow
-Parties directly involved in the process are the _AGP author_ (you), the _AGP Editors_, the _Aragon Association (“the Association”)_, and _Aragon Network voters_.
+Parties directly involved in the process are the _MVPWGP author_ (you), the _MVPW Association (“the Association”)_, and _MVPW voters_.
 
 Proposals follow this workflow:
 
-* Stage I: Select AGP Track
+* Stage I: Select MVPWGP Track
 * Stage II: Pre-proposal
 * Stage III: Work In Progress
 * Stage IV: Draft Proposal
 * Stage V: Final Proposal
-* Stage VI: Aragon Network Vote
+* Stage VI: MVPW Vote
 
-During Stage III-IV AGP Editors will review proposals for formatting, legibility, and compliance with AGP-1, referring to AGP-1 as the basis for accepting, denying, or requesting modifications to a proposal. The role of AGP Editors is further described in the AGP Editors section.
-
-At a high level, the AGP-1 workflow looks like this:
+At a high level, the MVPWGP-1 workflow looks like this:
 
 ![](../images/AGP-1/AGP-1_1.png)
 
-### Stage I: Select AGP Track
-Before you spend time working on a proposal, make sure the proposal complies with AGP-1 and has a chance of passing review by the AGP Editors and your peers. Review the AGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted by AGP Editors and approved by Aragon Network voters.
+### Stage I: Select MVPWGP Track
+Before you spend time working on a proposal, make sure the proposal complies with MVPWGP-1 and has a chance of passing review by your peers. Review the MVPWGP tracks and their requirements then select the track that you think is best for your proposal. If your proposal meets the requirements, it has a much greater chance of being accepted and approved by MVPW voters.
 
-There are four tracks that an AGP can be categorized into. Select the one you think is best for your AGP:
+There are four tracks that an MVPWGP can be categorized into. Select the one you think is best for your MVPWGP:
 
 * Association: proposals for making changes to the Association
 * Finance: proposals for transferring funds from the Association multisig
